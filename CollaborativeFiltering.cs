@@ -1,3 +1,5 @@
+// Author: Ivan Grgurina
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
